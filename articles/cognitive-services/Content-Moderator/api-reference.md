@@ -1,5 +1,5 @@
 ---
-title: API reference - Content Moderator
+title: API reference - Content Moderator a
 titleSuffix: Azure Cognitive Services
 description: Learn about the content moderation APIs for Content Moderator.
 services: cognitive-services
